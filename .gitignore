@@ -1,0 +1,14 @@
+# Node and OS
+node_modules/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+
+# Sensitive
+*.env
