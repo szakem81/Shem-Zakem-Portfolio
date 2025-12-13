@@ -1,0 +1,45 @@
+# Shem Zakem — Senior Product Manager
+
+White City, OR • szakem@live.com • szakem@live.com  
+https://www.linkedin.com/in/pro-geek
+
+Strategic product leader with experience across military, startup, and Fortune 500 environments. I build measurable, scalable solutions by aligning cross‑functional teams, prioritizing high‑ROI work, and shipping reliable systems that reduce cost and drive revenue.
+
+How to read this repo
+- Top: one-line headlines for quick scanning.
+- Body: 2–3 sentence summaries for recruiter and hiring manager review.
+- Case studies: linked long narratives and artifacts for hiring managers who want the full story.
+
+---
+
+## Private Consultant — Principal Program Manager Growth and Efficiency
+**Sep 2023 – Present • Medford OR**
+
+**One-line headline**  
+Transformed restaurant operations and launched digital revenue channels, driving a **21%** monthly revenue uplift and a **36%** increase in online sales; **leveraged LLM and ML along with generative AI** to accelerate analysis, strategy identification, roadmap planning, and presentation generation.
+
+**Overview**  
+Partnered with independent restaurant owners to diagnose operational bottlenecks, implement third‑party and direct ordering integrations, and run data‑driven growth experiments. Focused on rapid pilots, measurable experiments, and repeatable playbooks to scale improvements across locations.
+
+**What I did**
+- Led technical integrations with multi‑platform delivery partners and a direct ordering provider.  
+- Redesigned kitchen order flows and introduced first‑pass quality checks.  
+- Launched new menu and branded products with targeted promotions.  
+- Built telemetry and dashboards to measure lift and prioritize experiments.  
+- Leveraged LLM and ML along with generative AI (Copilot) to accelerate exploratory analysis, surface high‑impact strategies, draft roadmaps, and generate presentation materials.
+
+**Impact**
+- **36%** lift in online sales after multi‑platform mobile ordering launches.  
+- **21%** reduction in order handling time and **29%** improvement in first‑pass accuracy.  
+- **21%** monthly revenue uplift from new menu and branded products.  
+- **~50%** reduction in time to produce analysis and presentation materials using LLM/ML and generative AI‑assisted workflows.
+
+**Case study and artifacts**
+- `case-studies/private-consultant-restaurant-growth.md`  
+- `artifacts/templates/*` `artifacts/telemetry/queries.sql` `artifacts/copilot/*` `artifacts/ml/experiment-prioritization.md` `artifacts/playbooks/operations-playbook.md`
+
+---
+
+## Contact
+**Email:** szakem@live.com  
+**LinkedIn:** https://www.linkedin.com/in/pro-geek
