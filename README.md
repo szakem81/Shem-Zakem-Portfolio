@@ -1,4 +1,4 @@
-# Shem Zakem — Senior Product Manager
+# Shem Zakem — Technical Product, Project, & Program Specialist
 
 **White City, OR • Phone: (541)423-7388 • Email: szakem@live.com • LinkedIn: https://www.linkedin.com/in/pro-geek**
 
