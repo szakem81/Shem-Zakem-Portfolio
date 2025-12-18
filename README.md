@@ -7,11 +7,6 @@
 
 **Strategic product leader with experience across military, startup, and Fortune 500 environments. I build measurable, scalable solutions by aligning cross‑functional teams, prioritizing high‑ROI work, and shipping reliable systems that reduce cost and drive revenue.**
 
-**How to read this repo**
-- Top: Headline summary for quick scanning.
-- Body: 2–3 sentence summaries for recruiter and hiring manager review.
-- Case studies: linked long narratives and artifacts for hiring managers who want the full story.
-
 ---
 
 ## Private Consultant 
