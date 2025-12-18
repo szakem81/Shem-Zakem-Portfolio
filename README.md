@@ -3,7 +3,7 @@
 
 **Phone: (541)423-7388 | Email: szakem@live.com | LinkedIn: https://www.linkedin.com/in/pro-geek**
 
-**22025 Antioch Rd, White City, OR**
+**White City, OR**
 
 **Strategic product leader with experience across military, startup, and Fortune 500 environments. I build measurable, scalable solutions by aligning cross‑functional teams, prioritizing high‑ROI work, and shipping reliable systems that reduce cost and drive revenue.**
 
