@@ -99,6 +99,8 @@ Delivered measurable cost reduction and supply growth while creating a repeatabl
 - stakeholder map
 - AI prompt examples
 
+---
+
 ## The Boeing Company 
 ### Lead Technical Product Owner & Technical Program Manager
 
