@@ -36,9 +36,17 @@ Partnered with independent restaurant owners to diagnose operational bottlenecks
 - **21%** monthly revenue uplift from new menu and branded products.  
 - **~50%** reduction in time to produce analysis and presentation materials using LLM/ML and generative AI‑assisted workflows.
 
-**Case study and artifacts**
-- `case-studies/private-consultant-restaurant-growth.md`  
-- `artifacts/templates/*` `artifacts/telemetry/queries.sql` `artifacts/copilot/*` `artifacts/ml/experiment-prioritization.md` `artifacts/playbooks/operations-playbook.md`
+**Case study**
+
+- `case-studies/private-consultant-restaurant-growth.md`
+
+**Artifacts**
+
+- `artifacts/templates/*`
+- `artifacts/telemetry/queries.sql`
+- `artifacts/copilot/*`
+- `artifacts/ml/experiment-prioritization.md`
+- `artifacts/playbooks/operations-playbook.md`
 
 ---
  
@@ -66,10 +74,19 @@ Discovery, product vision, pilot design, telemetry instrumentation, A/B testing,
 **Why it mattered**  
 Delivered measurable cost reduction and supply growth while creating a repeatable automation playbook and monitoring stack for future partner programs.
 
-**Artifacts included**  
-Message templates; telemetry SQL; A/B test queries; partner success playbook; decision log; stakeholder map; Copilot prompts and edited outputs.
+**Case study**
+- `case-studies/private-consultant-restaurant-growth.md`  
 
-## Contact
+**Artifacts**  
+- telemetry SQLs
+- Message templates
+- A/B test queries
+- partner success playbook
+- decision log
+- stakeholder map
+- Copilot prompts and edited outputs
+
+## Contact Information
 **Phone:** (541)423-7388
 **Email:** szakem@live.com  
 **LinkedIn:** https://www.linkedin.com/in/pro-geek
