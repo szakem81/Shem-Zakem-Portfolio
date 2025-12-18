@@ -39,15 +39,12 @@ Manual partner communications and a fragmented onboarding experience caused slow
 ## Artifacts (embedded)
 
 ### Message templates
-**confirmation.md**
 
-**missing_data.md**
-
-**verification_reminder.md**
-
-**upsell_offer.md**
-
-**activation_confirmation.md**
+- `artifacts/templates/example_automated_messaging_confirmation.md`
+- `artifacts/templates/example_automated_messaging_missing_data.md`
+- `artifacts/templates/example_automated_messaging_verification_reminder.md`
+- `artifacts/templates/example_automated_messaging_upsell_offer.md`
+- `artifacts/templates/example_automated_messaging_activation_confirmation.md`
 
 ---
 
