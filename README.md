@@ -1,5 +1,5 @@
 # Shem Zakem
-## Technical Product, Project, & Program Leadership Specialist
+## Technical Product, Project, & Program Management Leader
 
 **Phone: (541)423-7388 • Email: szakem@live.com • LinkedIn: https://www.linkedin.com/in/pro-geek**
 
@@ -8,14 +8,17 @@
 **Strategic product leader with experience across military, startup, and Fortune 500 environments. I build measurable, scalable solutions by aligning cross‑functional teams, prioritizing high‑ROI work, and shipping reliable systems that reduce cost and drive revenue.**
 
 **How to read this repo**
-- Top: one-line headlines for quick scanning.
+- Top: Headline summary for quick scanning.
 - Body: 2–3 sentence summaries for recruiter and hiring manager review.
 - Case studies: linked long narratives and artifacts for hiring managers who want the full story.
 
 ---
 
-## Private Consultant | Principal Program Manager Growth and Efficiency
+## Private Consultant 
+### Principal Program Manager Growth and Efficiency
+
 **Sep 2023 – Present • Medford OR**
+
 ### Small Business Modernization
  
 Transformed restaurant operations and launched digital revenue channels, driving a **21%** monthly revenue uplift and a **36%** increase in online sales; **leveraged LLM and ML along with generative AI** to accelerate analysis, strategy identification, roadmap planning, and presentation generation.
@@ -50,12 +53,22 @@ Partnered with independent restaurant owners to diagnose operational bottlenecks
 
 ---
  
-## Expedia Group **Sep 2018 – Sep 2023 • Seattle, WA**
-## Senior Manager, Product Management (Senior Product Manager) 
-### Automated Messaging & Add-a-Property Onboarding 
+## Expedia Group 
+### Senior Manager, Product Management (Senior Product Manager) 
 
-**Project goal**  
-Reduce manual operations and partner chasing activity and accelerate lodging partner activation while increasing conversion and upsell capture.
+**Sep 2018 – Sep 2023 • Seattle, WA**
+
+### Partner Onboarding & Strategic Travel Partners 
+**Projects**
+- Automated Messaging
+- Add-a-Property
+- Salesforce/Dropbox
+- Salesforce/Jira Cloud integration
+- Global Sales/Service Team 0-1 Salesforce Platform Onboarding
+
+**Project goals**
+
+Reduce manual operations, partner chasing activity, accelerate partner activation while increasing conversion and upsell capture, and streamline sales/service teams operations.
 
 **Approach**  
 - Prioritized high‑impact onboarding touchpoints (confirmations, missing‑data prompts, verification reminders, upsells).  
@@ -74,17 +87,31 @@ Discovery, product vision, pilot design, telemetry instrumentation, A/B testing,
 **Why it mattered**  
 Delivered measurable cost reduction and supply growth while creating a repeatable automation playbook and monitoring stack for future partner programs.
 
-**Case study**
+**Case study with Embedded Artifacts**
 - `case-studies/private-consultant-restaurant-growth.md`  
 
-**Artifacts**  
+**Artifacts**
 - telemetry SQLs
 - Message templates
+  - `artifacts/templates/example_automated_messaging_confirmation.md`
+  - `artifacts/templates/example_automated_messaging_missing_data.md`
+  - `artifacts/templates/example_automated_messaging_verification_reminder.md`
+  - `artifacts/templates/example_automated_messaging_upsell_offer.md`
+  - `artifacts/templates/example_automated_messaging_activation_confirmation.md`
 - A/B test queries
 - partner success playbook
 - decision log
 - stakeholder map
-- Copilot prompts and edited outputs
+- AI prompt examples
+
+## The Boeing Company 
+### Lead Technical Product Owner & Technical Program Manager
+
+**Jan 2014 - Sep 2018 • Seattle, WA**
+
+### Maintainence Performance Toolbox & Toolbox 2.0
+
+- Placeholder Stub (**under construction**)
 
 ## Contact Information
 **Phone:** (541)423-7388
