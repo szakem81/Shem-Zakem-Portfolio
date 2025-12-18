@@ -1,7 +1,7 @@
 # Shem Zakem
 ## Technical Product, Project, & Program Management Leader
 
-**Phone: (541)423-7388 • Email: szakem@live.com • LinkedIn: https://www.linkedin.com/in/pro-geek**
+**Phone: (541)423-7388 | Email: szakem@live.com | LinkedIn: https://www.linkedin.com/in/pro-geek**
 
 **White City, OR**
 
@@ -114,8 +114,6 @@ Delivered measurable cost reduction and supply growth while creating a repeatabl
 - Placeholder Stub (**under construction**)
 
 ## Contact Information
-**Phone:** (541)423-7388
-**Email:** szakem@live.com  
-**LinkedIn:** https://www.linkedin.com/in/pro-geek
+**Phone:** (541)423-7388 | **Email:** szakem@live.com | **LinkedIn:** https://www.linkedin.com/in/pro-geek
 
 ---
