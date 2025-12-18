@@ -1,6 +1,13 @@
-Decision log (examples to capture)
-Pilot vs Big Bang — chose phased pilots to validate ROI and reduce rollback risk (date, rationale).
+## Decision log (examples to capture)
 
-Scope of automation — prioritized onboarding touchpoints first to deliver measurable impact quickly.
+**Pilot vs Big Bang** 
 
-Personalization tradeoff — limited template variants to balance conversion lift with maintenance overhead.
+Choose phased pilots to validate ROI and reduce rollback risk (date, rationale).
+
+**Scope of automation**
+
+Prioritized onboarding touchpoints first to deliver measurable impact quickly.
+
+**Personalization tradeoff**
+
+Limited template variants to balance conversion lift with maintenance overhead.
