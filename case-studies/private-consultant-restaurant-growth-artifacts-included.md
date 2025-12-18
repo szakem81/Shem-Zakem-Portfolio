@@ -1,6 +1,6 @@
 # Private Consultant Case Study — Restaurant Growth and Efficiency
 
-**One-line summary**  
+## Summary  
 Transformed operations and launched new digital revenue channels for independent restaurants, driving a **36%** lift in online sales and a **21%** monthly revenue uplift; **leveraged LLM and ML along with generative AI** to accelerate analysis, strategy identification, roadmap planning, and presentation generation.
 
 ---
@@ -37,16 +37,13 @@ Independent restaurants faced thin margins, inconsistent order accuracy, and lim
 
 ## Artifacts (embedded)
 
-### A — Message templates (operations)
-**confirmation_order.md**
-
-**missing_info_prompt.md**
-
-**activation_confirmation.md**
+### Message templates (operations)
+- `artifacts/templates/example_online_ordering_confirmation_order.md`
+- `artifacts/templates/example_online_ordering_activation_confirmation.md`
 
 ---
 
-### B — Telemetry queries (SQL) — adapt table/field names to your schema
+### Telemetry queries (SQL) Example
 
 **Median and P90 time to activation by week**
 ```sql
@@ -66,11 +63,25 @@ WITH counts AS (
   FROM order_messages
   WHERE created_at >= CURRENT_DATE - INTERVAL '30 days'
 )
+
+```
+
+**Operational Time Savings**
+
+```sql
+
 SELECT
   automated_count,
   manual_count,
   (manual_count * 10.0 - automated_count * 1.5) / 60.0 AS estimated_hours_saved
 FROM counts;
+
+```
+
+**A/B Testing**
+
+```sql
+
 SELECT
   variant,
   COUNT(*) AS messages_sent,
@@ -79,6 +90,20 @@ SELECT
 FROM message_ab_tests
 WHERE test_id = '{test_id}'
 GROUP BY variant;
-Prompt: "Given the restaurant_events table with columns event_time, location_id, event_type, and time_to_activation_hours, generate a SQL query that returns median and p90 time_to_activation_hours by week for the last 90 days."
-Prompt: "Summarize the top 5 high‑impact interventions given these inputs: margin per order, average order handling time, first‑pass accuracy, and owner feedback themes. Rank by estimated revenue lift and implementation effort."
-Prompt: "Create a 10‑slide presentation outline for owners summarizing pilot results: problem, approach, key metrics, before/after charts, recommended next steps, and a one‑page action plan."
+
+```
+
+---
+## Generative/Agentic AI Prompt Examples
+
+**Prompt:** 
+
+"Given the restaurant_events table with columns event_time, location_id, event_type, and time_to_activation_hours, generate a SQL query that returns median and p90 time_to_activation_hours by week for the last 90 days."
+
+**Prompt:** 
+
+"Summarize the top 5 high‑impact interventions given these inputs: margin per order, average order handling time, first‑pass accuracy, and owner feedback themes. Rank by estimated revenue lift and implementation effort."
+
+**Prompt:** 
+
+"Create a 10‑slide presentation outline for owners summarizing pilot results: problem, approach, key metrics, before/after charts, recommended next steps, and a one‑page action plan."
