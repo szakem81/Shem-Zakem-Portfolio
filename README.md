@@ -41,10 +41,10 @@ Partnered with independent restaurant owners to diagnose operational bottlenecks
 **Artifacts**
 
 - `artifacts/templates/*`
-- `artifacts/telemetry/queries.sql`
+- `artifacts/telemetry/*`
 - `artifacts/copilot/*`
-- `artifacts/ml/experiment-prioritization.md`
-- `artifacts/playbooks/operations-playbook.md`
+- `artifacts/ml/*`
+- `artifacts/playbooks/*`
 
 ---
  
@@ -83,16 +83,11 @@ Discovery, product vision, pilot design, telemetry instrumentation, A/B testing,
 Delivered measurable cost reduction and supply growth while creating a repeatable automation playbook and monitoring stack for future partner programs.
 
 **Case study with Embedded Artifacts**
-- `case-studies/private-consultant-restaurant-growth.md`  
+- `case-studies/expedia-automated-messaging-onboarding-artifacts-included.md`  
 
 **Artifacts**
 - telemetry SQLs
-- Message templates
-  - `artifacts/templates/example_automated_messaging_confirmation.md`
-  - `artifacts/templates/example_automated_messaging_missing_data.md`
-  - `artifacts/templates/example_automated_messaging_verification_reminder.md`
-  - `artifacts/templates/example_automated_messaging_upsell_offer.md`
-  - `artifacts/templates/example_automated_messaging_activation_confirmation.md`
+- templates
 - A/B test queries
 - partner success playbook
 - decision log
