@@ -1,6 +1,9 @@
-# Shem Zakem — Technical Product, Project, & Program Specialist
+# Shem Zakem
+## Technical Product, Project, & Program Leadership Specialist
 
-**White City, OR • Phone: (541)423-7388 • Email: szakem@live.com • LinkedIn: https://www.linkedin.com/in/pro-geek**
+**Phone: (541)423-7388 • Email: szakem@live.com • LinkedIn: https://www.linkedin.com/in/pro-geek**
+
+**White City, OR**
 
 **Strategic product leader with experience across military, startup, and Fortune 500 environments. I build measurable, scalable solutions by aligning cross‑functional teams, prioritizing high‑ROI work, and shipping reliable systems that reduce cost and drive revenue.**
 
@@ -11,10 +14,10 @@
 
 ---
 
-## Private Consultant — Principal Program Manager Growth and Efficiency
+## Private Consultant | Principal Program Manager Growth and Efficiency
 **Sep 2023 – Present • Medford OR**
-
-**One-line headline**  
+### Small Business Modernization
+ 
 Transformed restaurant operations and launched digital revenue channels, driving a **21%** monthly revenue uplift and a **36%** increase in online sales; **leveraged LLM and ML along with generative AI** to accelerate analysis, strategy identification, roadmap planning, and presentation generation.
 
 **Overview**  
@@ -38,6 +41,33 @@ Partnered with independent restaurant owners to diagnose operational bottlenecks
 - `artifacts/templates/*` `artifacts/telemetry/queries.sql` `artifacts/copilot/*` `artifacts/ml/experiment-prioritization.md` `artifacts/playbooks/operations-playbook.md`
 
 ---
+ 
+## Expedia Group **Sep 2018 – Sep 2023 • Seattle, WA**
+## Senior Manager, Product Management (Senior Product Manager) 
+### Automated Messaging & Add-a-Property Onboarding 
+
+**Project goal**  
+Reduce manual operations and partner chasing activity and accelerate lodging partner activation while increasing conversion and upsell capture.
+
+**Approach**  
+- Prioritized high‑impact onboarding touchpoints (confirmations, missing‑data prompts, verification reminders, upsells).  
+- Built instrumentation first (time‑to‑activation, ops hours, conversion) and ran phased pilots with A/B tests.  
+- Implemented guardrails (throttling, opt‑outs, rollback) and trained Partner Success on exception handling.
+
+**Key outcomes - $5.4M+ cost savings & $4M+ revenue lift**  
+- **Onboarding Messaging Automation** -> **$4.2M** annual cost savings, **$700K** incremental revenue on improved conversion and upsells.  
+- **Add‑a‑Property** -> **$2.7M** revenue uplift, **$400K+** operations cost savings.  
+- **Salesforce/Dropbox integration** -> **$800K** annual savings, **$600K** enabled revenue.
+- **Salesforce Service Cloud/Jira Cloud integration** -> **54%** faster avearage case close time, **32%** increase on first pass case close quality, & **37%** customer satifaction score improvement.
+
+**What I owned**  
+Discovery, product vision, pilot design, telemetry instrumentation, A/B testing, stakeholder alignment (SRE, engineering, finance, partner ops), rollout plan, and Partner Success playbooks.
+
+**Why it mattered**  
+Delivered measurable cost reduction and supply growth while creating a repeatable automation playbook and monitoring stack for future partner programs.
+
+**Artifacts included**  
+Message templates; telemetry SQL; A/B test queries; partner success playbook; decision log; stakeholder map; Copilot prompts and edited outputs.
 
 ## Contact
 **Phone:** (541)423-7388
