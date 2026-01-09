@@ -61,7 +61,7 @@ Partnered with independent restaurant owners to diagnose operational bottlenecks
 - Salesforce/Jira Cloud integration
 - Global Sales/Service Team 0-1 Salesforce Platform Onboarding
 
-**Project goals**
+**Project Goals**
 
 Reduce manual operations, partner chasing activity, accelerate partner activation while increasing conversion and upsell capture, and streamline sales/service teams operations.
 
@@ -96,14 +96,34 @@ Delivered measurable cost reduction and supply growth while creating a repeatabl
 
 ---
 
-## The Boeing Company 
+## The Boeing Company - (Under Construction)
 ### Lead Technical Product Owner & Technical Program Manager
 
 **Jan 2014 - Sep 2018 • Seattle, WA**
 
 ### Maintainence Performance Toolbox & Toolbox 2.0
+**Projects**
 
-- Placeholder Stub (**under construction**)
+- Intelligent Wiring Diagram Fault Tracing
+- Production Incident & Defect Reduction 
+
+---
+
+## Green Box Batteries, DBA BETTERY - (Under Construction)
+### Founder 
+
+**Jan 2011 - Dec 2013 • Lakewood, WA**
+
+### Head of Product Developement & Operations
+**Projects**
+
+- Market Research, Business Modelling
+- Network Connected Vending & Payment Processing
+- Patent Process
+- Mobile Application
+- IoT Smart Charging Apparatus
+
+---
 
 ## Contact Information
 **Phone:** (541)423-7388 | **Email:** szakem@live.com | **LinkedIn:** https://www.linkedin.com/in/pro-geek
